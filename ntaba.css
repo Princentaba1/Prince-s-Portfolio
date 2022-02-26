@@ -1,4 +1,14 @@
 ul{list-style-type: none;}
 ul li a{text-decoration: none;}
-nav{display:flex;}
-footer{display:block;}
+nav{display: flex;}
+footer{display: ruby-base-container;}
+.img{
+    height: 400px;
+    width: 400px;
+    }
+.Image-Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
