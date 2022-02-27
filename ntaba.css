@@ -6,11 +6,11 @@ ul{
 } 
 .about-link{
     color: aliceblue;
-    padding-left: 500px;
+    padding-left: 300px;
 }
 .home-link{
     color: aliceblue;
-    padding-right: 500px;
+    padding-right: 300px;
 }
 ul li a{
     text-decoration: none;
