@@ -1,14 +1,29 @@
-ul{list-style-type: none;}
-ul li a{text-decoration: none;}
-nav{display: flex;}
-footer{display: ruby-base-container;}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+} 
+.about-link{
+    color: aliceblue;
+    padding-left: 50px;
+}
+.home-link{
+    color: aliceblue;
+    padding-right: 500px;
+}
+ul li a{
+    text-decoration: none;
+}
+footer{
+    display: ruby-base-container;
+}
 .img{
-    height: 400px;
-    width: 400px;
+    height: 800px;
+    width: 500px;
     }
 .Image-Container{
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
