@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+} 
+.about2-link{
+    color: aliceblue;
+    padding-left: 500px;
+}
+.home2-link{
+    color: aliceblue;
+    padding-right: 500px;
+}
+ul li a{
+    text-decoration: none;
+}
