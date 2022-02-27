@@ -13,7 +13,7 @@ ul{
     padding-right: 300px;
 }
 ul li a{
-    text-decoration: none;
+    text-decoration: aliceblue;
 }
 footer{
     display: ruby-base-container;
